@@ -1,2 +1,3 @@
-const SSC = require('sscjs');
-module.exports = new SSC(process.env.STEEMENGINE_URL) || 'https://api.steem-engine.com/rpc/';
+const dsteem = require('dsteem');
+
+module.exports = new dsteem.Client(process.env.STEEMD_URL || 'https://api.steemit.com');
