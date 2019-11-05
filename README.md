@@ -1,6 +1,6 @@
 # SteemStream with NodeJS + DSTEEM + Redis
 
-Stream the SteemEngine Chain and store the current block number into a Redis server giving you a good base to build an API and a stream reader which does not miss blocks.
+Stream the Steem BlockChain and store the current block number into a Redis server giving you a good base to build an API and a stream reader which does not miss blocks.
 
 ## Installation
 
