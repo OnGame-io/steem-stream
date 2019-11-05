@@ -17,12 +17,6 @@ Start the stream
 npm run
 ```
 
-
-## Documentation
-
-More informations about Steem Engine at https://steem-engine.com/
-SSCJS is available at https://github.com/harpagon210/sscjs
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
