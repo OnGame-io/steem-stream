@@ -6,8 +6,6 @@ Stream the Steem BlockChain and store the current block number into a Redis serv
 
 Clone the repo & install dependencies.
 ```bash
-git clone https://github.com/hightouch67/steemengine-stream.git
-cd steemengine-stream
 npm install 
 ```
 Put your Redis Server info into redis.js
